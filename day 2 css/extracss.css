@@ -1,0 +1,41 @@
+.divition1{
+    background-color: darkgrey;
+    border: 5px solid aqua;
+    border-radius: 10px 80px 10px 80px;
+    padding: 50px;
+    margin: 30px;
+}
+.divition1 h1{
+    color:white;
+    font-size: 50px;
+    font-weight: 800;
+}
+.divition1 h2{
+    color: wheat;
+    font-size: 30px;
+}
+.divition1 p{
+    color: rgb(218, 218, 218);
+    font-size: 20px;
+}
+.divition2{
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    border: 2px dotted greenyellow;
+    padding-left: 20px;
+    padding-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    border-radius: 30px;
+}
+.divition3{
+    margin: 20px 30px 10px 100px;
+    padding: 20px 10px 30px 40px;
+    border-left: 5px solid salmon;
+    border-bottom: 3px solid salmon;
+    border-top: 4px solid sandybrown;
+    border-right: 2px solid sandybrown;
+    border-radius: 40px;
+}
